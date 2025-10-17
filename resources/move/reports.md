@@ -9,7 +9,8 @@ https://github.com/Jayfromthe13th
 
 [https://reports.zellic.io](https://t.co/85WBcjkDcI)
 
-### Ottersec Repo- 88 Aptos/Sui Reports
+### Ottersec Reports
+- 88 Aptos/Sui Reports
 - filter by Sui/Aptos
 
 [https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772…](https://t.co/zOerNOwKbm)

@@ -1,4 +1,4 @@
-Sui
+# Sui Blogs
 
 <https://blog.trailofbits.com/2025/09/10/how-sui-move-rethinks-flash-loan-security/>
 

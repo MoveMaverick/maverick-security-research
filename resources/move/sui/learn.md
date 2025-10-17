@@ -3,23 +3,19 @@
 
 Whitepaper:
 
-[](https://t.co/NSWzp6j4SW)[https://docs.sui.io/assets/files/sui-6251a5c5b9d2fab6b1df0e24ba7c6322.pdf...](https://docs.sui.io/assets/files/sui-6251a5c5b9d2fab6b1df0e24ba7c6322.pdf%E2%80%A6)
+https://docs.sui.io/assets/files/sui-6251a5c5b9d2fab6b1df0e24ba7c6322.pdf
 
 Sui Move Book:
 
-[](https://t.co/4mLGjGEc2T)<https://intro.sui-book.com>
+https://intro.sui-book.com/
 
-Intro Course:
+Sui Move Intro Course:
 
-[](https://t.co/2nPJYWXxAB)[https://github.com/sui-foundation/sui-move-intro-course...](https://github.com/sui-foundation/sui-move-intro-course%E2%80%A6)
-
-Sui Security:
-
-[](https://t.co/j5OQlNT4gk)[https://docs.sui.io/concepts/sui-architecture/sui-security...](https://docs.sui.io/concepts/sui-architecture/sui-security%E2%80%A6)
+https://github.com/sui-foundation/sui-move-intro-course
 
 Sui Move Primer:
 
-[](https://t.co/smjS0lno1a)[https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer...](https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer%E2%80%A6)
+https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer
 
 🎥 Video Courses & Tutorials
 ----------------------------
@@ -30,11 +26,11 @@ Introduction to Sui
 
 Build On Sui by the Sui community
 
-[](https://t.co/PxSlPDdi3j)[https://youtube.com/playlist?list=PL9t2y-BKvZBTyd5pEk54uMLc5UH7gWS9V&si=eW1GfctjZRn8WnDd...](https://youtube.com/playlist?list=PL9t2y-BKvZBTyd5pEk54uMLc5UH7gWS9V&si=eW1GfctjZRn8WnDd%E2%80%A6)
+https://youtube.com/playlist?list=PL9t2y-BKvZBTyd5pEk54uMLc5UH7gWS9V&si=CwWkHy9qqa8uhRJG
 
 Move on Sui Course
 
-[](https://t.co/Q6FPHG9urd)[https://youtube.com/playlist?list=PL3id4Z64z2sNED_aH7UYIFFwy6MsvKCN9&si=AOaaZ_LtrsANyU69...](https://youtube.com/playlist?list=PL3id4Z64z2sNED_aH7UYIFFwy6MsvKCN9&si=AOaaZ_LtrsANyU69%E2%80%A6)
+https://www.youtube.com/playlist?list=PL3id4Z64z2sNED_aH7UYIFFwy6MsvKCN9
 
 🎮 Interactive & Gamified
 -------------------------
@@ -56,7 +52,7 @@ Building with Sui DeepBook: A DeFi Tutorial using the Move Language
 
 Master Sui Move, Build Beyond
 
-<https://t.co/JLXPPbsHqa>
+https://metaschool.so/sui
 
 Move on Sui
 
@@ -64,3 +60,7 @@ Move on Sui
 
 🔐 Security-Specific
 --------------------
+
+Understand Sui Security
+
+https://docs.sui.io/concepts/sui-architecture/sui-security

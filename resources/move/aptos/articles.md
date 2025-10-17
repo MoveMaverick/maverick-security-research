@@ -1,4 +1,4 @@
-Aptos
+# Aptos Blogs
 
 <https://www.zellic.io/blog/move-fast-and-break-things-pt-1>
 

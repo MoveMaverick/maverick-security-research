@@ -78,7 +78,7 @@ This repository documents my journey from Move fundamentals to Sui security spec
 
 ## 🤝 Connect
 
-- **Twitter/X:** [@MoveMaverick](https://twitter.com/MoveMav) *(launching soon)*
+- **Twitter:** [@MoveMaverick](https://twitter.com/MoveMav) 
 - **GitHub:** You're here!
 
 ---

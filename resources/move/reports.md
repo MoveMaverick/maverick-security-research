@@ -1,6 +1,6 @@
 # Move Audit Reports
 
-### Reports and Formal Verification by MoveJay
+### MoveJay Reports and Formal Verification
 
 https://github.com/Jayfromthe13th
 

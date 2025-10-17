@@ -64,3 +64,7 @@ Move on Sui
 Understand Sui Security
 
 https://docs.sui.io/concepts/sui-architecture/sui-security
+
+Sui-MOVE-Smart-Contract-Auditing-Primer
+
+https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer

@@ -39,8 +39,6 @@ Security researcher specializing in Sui ecosystem security. Currently building e
 
 ## 🔥 Coming Soon
 
-- **TLP $3.44M Exploit Analysis** - Deep dive into the October 15, 2025 exploit
-- **Week 1 Journey Log** - Documentation of NAVI protocol research
 - **Initial vulnerability patterns** - Extracted from audit report study
 
 ---

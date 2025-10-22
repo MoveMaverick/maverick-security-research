@@ -5,7 +5,7 @@
 https://github.com/Jayfromthe13th
 
 ### Zellic Reports
-- 3 Sui Reports, 9 Aptos Reports
+- 6 Sui Reports, 10 Aptos Reports
 
 [https://reports.zellic.io](https://t.co/85WBcjkDcI)
 

@@ -29,18 +29,14 @@ Core Move language resources and chain-specific materials.
 - Check out [`/resources/Getting-Started-in-Web3.md`](/resources/Getting-Started-in-Web3.md)
 
 **New to Sui security?**
-1. Start with [`move/sui/learn.md`](move/sui/learn.md) - Follow the recommended learning path
+1. Start with [`move/sui/learn.md`](move/sui/learn.md) - Follow learning resources
 2. Review [`move/reports.md`](move/reports.md) - Study professional audit reports
 3. Read [`move/sui/articles.md`](move/sui/articles.md) - Deep dive into specific topics
-
-**Looking for audit reports?**
-→ [`move/reports.md`](move/reports.md) - 88+ reports from Ottersec, Zellic, MoveBit, and more
 
 ---
 
 ## 📊 What's Included
 
-- **Learning Paths:** Structured roadmaps from beginner to advanced
 - **Official Documentation:** Whitepapers, language references, security guidelines
 - **Video Courses:** YouTube playlists, structured bootcamps
 - **Interactive Learning:** Gamified platforms, hands-on challenges

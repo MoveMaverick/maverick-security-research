@@ -24,6 +24,10 @@ Core Move language resources and chain-specific materials.
 
 ## 🎯 Quick Start
 
+**New to Web3 security?**
+
+- Check out [`/resources/Getting-Started-in-Web3.md`](/resources/Getting-Started-in-Web3.md)
+
 **New to Sui security?**
 1. Start with [`move/sui/learn.md`](move/sui/learn.md) - Follow the recommended learning path
 2. Review [`move/reports.md`](move/reports.md) - Study professional audit reports

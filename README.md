@@ -9,9 +9,7 @@ Security researcher specializing in Sui ecosystem security. Currently building e
 ## 🎯 Current Focus
 
 **Active bug bounty hunting:**
-- Walrus Smart Contract - Deep diving into oracle and liquidation logic
-- Volo (Structured Funds) - Analyzing staking mechanisms
-- Astros (Perpetual Vault) - Reviewing perpetual swap security
+- Walrus Smart Contract - Deep diving into protocol
 
 **Building:**
 - Comprehensive Sui security learning resources

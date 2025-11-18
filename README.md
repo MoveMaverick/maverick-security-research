@@ -12,8 +12,8 @@ Security researcher specializing in Sui ecosystem security. Currently building e
 - Walrus Smart Contract - Deep diving into protocol
 
 **Building:**
-- Comprehensive Sui security learning resources
-- Vulnerability pattern database
+- Comprehensive Move security [learning resources](https://movemaverick.github.io/move-vulnerability-database/resources.html)
+- [Move Vulnerability Database](https://movemaverick.github.io/move-vulnerability-database/index.html)
 - Public audit report analysis
 
 ---

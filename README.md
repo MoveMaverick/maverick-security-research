@@ -8,36 +8,21 @@ Security researcher specializing in Sui ecosystem security. Currently building e
 
 ## 🎯 Current Focus
 
-**Active bug bounty hunting:**
-- Walrus Smart Contract - Deep diving into protocol
+**Active bug bounty hunting**
+
+
 
 **Building:**
-- Comprehensive Move security [learning resources](https://movemaverick.github.io/move-vulnerability-database/resources.html)
+- [Move security learning resources](https://movemaverick.github.io/move-vulnerability-database/resources.html)
 - [Move Vulnerability Database](https://movemaverick.github.io/move-vulnerability-database/index.html)
-- Public audit report analysis
-
 ---
 
 ## 📂 Repository Structure
-
-### Security Research
-- **Exploit Postmortems** - Real-world attack analysis *(coming soon)*
-- **Audit Breakdowns** - Learning from professional audits *(coming soon)*
-- **Vulnerability Patterns** - Categorized security issues *(building database)*
 
 ### [Learning Resources](resources/) ✅ *Available Now*
 - [Sui Learning Path](resources/move/sui/learn.md) - Curated path from basics to security specialist
 - [100+ Audit Reports](resources/move/reports.md) - Directory of public Move security audits
 - [Security Articles](resources/move/sui/articles.md) - Research compilation
-
-### Journey
-- Weekly progress logs and learning insights *(coming soon)*
-
----
-
-## 🔥 Coming Soon
-
-- **Initial vulnerability patterns** - Extracted from audit report study
 
 ---
 
@@ -88,5 +73,3 @@ This research is released under the [MIT License](LICENSE).
 ---
 
 ⭐ **Star this repo to follow my security research journey**
-
-*Last updated: October 17, 2025*
